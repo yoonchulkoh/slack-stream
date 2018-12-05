@@ -1,0 +1,6 @@
+{
+  "name": "slack-stream",
+  "dependencies": {
+    "emoji-js": "3.4.1"
+  }
+}
